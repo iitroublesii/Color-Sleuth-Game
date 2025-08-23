@@ -1,11 +1,6 @@
-body {
-    background-color: lightgray;
-}
-
-
-.blue-square {
+.red-square {
     width: 100px;
     height: 100px;
+    margin: 10px 0;
     background-color: slateblue;
-    border-radius: 10px;
 }
