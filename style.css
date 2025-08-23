@@ -1,6 +1,18 @@
+body {
+    background-color: #2A2D34;
+}
+
+h1 {
+    text-align: center;
+    color: #30C5FF;
+    font-family: 'Arial';
+    font-size: 48px;
+    padding: 20px;
+}
+
 .red-square {
-    width: 100px;
-    height: 100px;
-    margin: 10px 0;
-    background-color: slateblue;
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+    background-color:#A0DDE6;
 }
