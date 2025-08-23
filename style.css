@@ -1,0 +1,11 @@
+body {
+    background-color: lightgray;
+}
+
+
+.blue-square {
+    width: 100px;
+    height: 100px;
+    background-color: slateblue;
+    border-radius: 10px;
+}
